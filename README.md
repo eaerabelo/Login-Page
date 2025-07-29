@@ -1,4 +1,4 @@
-## 📂 Sobre os Arquivos do Projeto
+## 📂 Projeto Login Page
 
 Este repositório é composto por três arquivos principais que, juntos, constroem uma interface de **Login e Cadastro** com foco em **design moderno**, **animações suaves** e **experiência do usuário** intuitiva.
 
